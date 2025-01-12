@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-scitlearn
+scikit-learn
 pyrebase
