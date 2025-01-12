@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-sklearn.linear_model
+scitlearn
 pyrebase
