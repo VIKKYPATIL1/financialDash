@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sklearn.linear_model
+pyrebase
